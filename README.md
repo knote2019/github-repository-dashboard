@@ -6,6 +6,7 @@
 * [CUDA](#CUDA)
 * [PyTorch](#PyTorch)
 * [TensorRT](#TensorRT)
+* [AI](#AI)
 
 ## Openstack
 
@@ -29,3 +30,6 @@
 * [https://github.com/wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
 * [https://github.com/Hexmagic/libtorch_Yolov5](https://github.com/Hexmagic/libtorch_Yolov5)
 * [https://github.com/liujf69/TensorRT-Demo](https://github.com/liujf69/TensorRT-Demo)
+
+## AI
+* [https://github.com/liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)
