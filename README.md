@@ -6,7 +6,7 @@
 * [TensorRT](#TensorRT)
 
 ## CPP
-
+* [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)：基础学习。
 ## CUDA
 
 ## PyTorch
