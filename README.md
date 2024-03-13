@@ -15,6 +15,7 @@
 * [https://github.com/PacktPublishing/Modern-CMake-for-Cpp](https://github.com/PacktPublishing/Modern-CMake-for-Cpp)
 * [https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition](https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition)
 * [https://github.com/PacktPublishing/Expert-C-2nd-edition](https://github.com/PacktPublishing/Expert-C-2nd-edition)
+* [https://github.com/applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
