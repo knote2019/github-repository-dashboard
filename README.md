@@ -21,7 +21,10 @@
 * [https://github.com/eyalroz/cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers)
 
 ## PyTorch
+* [https://github.com/koba-jon/pytorch_cpp](https://github.com/koba-jon/pytorch_cpp)
 
 ## TensorRT
-
-
+* [https://github.com/wang-xinyu/pytorchx](https://github.com/wang-xinyu/pytorchx)
+* [https://github.com/wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
+* [https://github.com/Hexmagic/libtorch_Yolov5](https://github.com/Hexmagic/libtorch_Yolov5)
+* [https://github.com/liujf69/TensorRT-Demo](https://github.com/liujf69/TensorRT-Demo)
