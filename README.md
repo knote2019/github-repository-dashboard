@@ -36,6 +36,7 @@
 * [https://github.com/tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn)
 
 ## PyTorch
+* [https://github.com/AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
 * [https://github.com/jiamny/Deep_Learning_with_Libtorch](https://github.com/jiamny/Deep_Learning_with_Libtorch)
 * [https://github.com/koba-jon/pytorch_cpp](https://github.com/koba-jon/pytorch_cpp)
 * [https://github.com/Keson96/ResNet_LibTorch](https://github.com/Keson96/ResNet_LibTorch)
