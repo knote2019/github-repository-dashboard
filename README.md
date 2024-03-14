@@ -3,6 +3,7 @@
 * [Openstack](#Openstack)
 * [Kubernetes](#Kubernetes) 
 * [CPP](#CPP)
+* [CPP-3PP](#CPP-3PP)
 * [CUDA](#CUDA)
 * [PyTorch](#PyTorch)
 * [TensorRT](#TensorRT)
@@ -17,6 +18,17 @@
 * [https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition](https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition)
 * [https://github.com/PacktPublishing/Expert-C-2nd-edition](https://github.com/PacktPublishing/Expert-C-2nd-edition)
 * [https://github.com/applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+
+## CPP-3PP
+* [https://github.com/p-ranav/argparse](https://github.com/p-ranav/argparse)
+* [https://github.com/p-ranav/tabulate](https://github.com/p-ranav/tabulate)
+* [https://github.com/imageworks/pystring](https://github.com/imageworks/pystring)
+* [https://github.com/llohse/libnpy](https://github.com/llohse/libnpy)
+* [https://github.com/eyalroz/cpp-static-block](https://github.com/eyalroz/cpp-static-block)
+* [https://github.com/martin-olivier/dylib](https://github.com/martin-olivier/dylib)
+* [https://github.com/jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)
+* [https://github.com/boostorg/stacktrace](https://github.com/boostorg/stacktrace)
+* [https://github.com/robhz786/strf](https://github.com/robhz786/strf)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
