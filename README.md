@@ -18,6 +18,7 @@
 * [https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition](https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition)
 * [https://github.com/PacktPublishing/Expert-C-2nd-edition](https://github.com/PacktPublishing/Expert-C-2nd-edition)
 * [https://github.com/applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+* [https://github.com/Neargye/magic_enum](https://github.com/Neargye/magic_enum)
 
 ## CPP-3PP
 * [https://github.com/p-ranav/argparse](https://github.com/p-ranav/argparse)
