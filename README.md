@@ -20,6 +20,7 @@
 * [https://github.com/applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
 * [https://github.com/Neargye/magic_enum](https://github.com/Neargye/magic_enum)
 * [https://github.com/progschj/ThreadPool](https://github.com/progschj/ThreadPool)
+* [https://github.com/TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 
 ## CPP-3PP
 * [https://github.com/p-ranav/argparse](https://github.com/p-ranav/argparse)
