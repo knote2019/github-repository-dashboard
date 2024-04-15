@@ -32,6 +32,9 @@
 * [https://github.com/jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)
 * [https://github.com/boostorg/stacktrace](https://github.com/boostorg/stacktrace)
 * [https://github.com/robhz786/strf](https://github.com/robhz786/strf)
+* [https://github.com/wc-duck/dbgtools](https://github.com/wc-duck/dbgtools)
+* [https://github.com/agauniyal/rang](https://github.com/agauniyal/rang)
+* [https://github.com/nothings/single_file_libs](https://github.com/nothings/single_file_libs)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
