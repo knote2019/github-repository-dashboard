@@ -47,11 +47,11 @@
 * [https://github.com/koba-jon/pytorch_cpp](https://github.com/koba-jon/pytorch_cpp)
 * [https://github.com/Keson96/ResNet_LibTorch](https://github.com/Keson96/ResNet_LibTorch)
 * [https://github.com/hotsuyuki/YOLOv5_PyTorch_cpp](https://github.com/hotsuyuki/YOLOv5_PyTorch_cpp)
+* [https://github.com/Hexmagic/libtorch_Yolov5](https://github.com/Hexmagic/libtorch_Yolov5)
 
 ## TensorRT
 * [https://github.com/wang-xinyu/pytorchx](https://github.com/wang-xinyu/pytorchx)
 * [https://github.com/wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
-* [https://github.com/Hexmagic/libtorch_Yolov5](https://github.com/Hexmagic/libtorch_Yolov5)
 * [https://github.com/liujf69/TensorRT-Demo](https://github.com/liujf69/TensorRT-Demo)
 
 ## AI
