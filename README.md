@@ -11,9 +11,9 @@
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
 * [https://github.com/eyalroz/cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers)
 * [https://github.com/tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn)
-* https://github.com/RussWong/CUDATutorial(https://github.com/RussWong/CUDATutorial)
-* https://github.com/zhaocc1106/cuxx-programing/tree/master(https://github.com/zhaocc1106/cuxx-programing/tree/master)
-* https://github.com/HuangCongQing/cuda-learning(https://github.com/HuangCongQing/cuda-learning)
+* [https://github.com/RussWong/CUDATutorial](https://github.com/RussWong/CUDATutorial)
+* [https://github.com/zhaocc1106/cuxx-programing](https://github.com/zhaocc1106/cuxx-programing)
+* [https://github.com/HuangCongQing/cuda-learning](https://github.com/HuangCongQing/cuda-learning)
 
 ## CPP
 * [https://github.com/PacktPublishing/Modern-CMake-for-Cpp](https://github.com/PacktPublishing/Modern-CMake-for-Cpp)
@@ -23,9 +23,9 @@
 * [https://github.com/Neargye/magic_enum](https://github.com/Neargye/magic_enum)
 * [https://github.com/progschj/ThreadPool](https://github.com/progschj/ThreadPool)
 * [https://github.com/TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-* https://github.com/Phoenix8215/multi-thread-programming(https://github.com/Phoenix8215/multi-thread-programming)
-* https://github.com/Light-City/CPlusPlusThings(https://github.com/Light-City/CPlusPlusThings)
-* https://github.com/afatcoder/LeetcodeTop(https://github.com/afatcoder/LeetcodeTop)
+* [https://github.com/Phoenix8215/multi-thread-programming](https://github.com/Phoenix8215/multi-thread-programming)
+* [https://github.com/Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+* [https://github.com/afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
 
 ## CPP-3PP
 * [https://github.com/p-ranav/argparse](https://github.com/p-ranav/argparse)
@@ -48,17 +48,17 @@
 * [https://github.com/Keson96/ResNet_LibTorch](https://github.com/Keson96/ResNet_LibTorch)
 * [https://github.com/hotsuyuki/YOLOv5_PyTorch_cpp](https://github.com/hotsuyuki/YOLOv5_PyTorch_cpp)
 * [https://github.com/Hexmagic/libtorch_Yolov5](https://github.com/Hexmagic/libtorch_Yolov5)
-* https://github.com/yanx27/Pointnet_Pointnet2_pytorch(https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
-* https://github.com/zhaocc1106/torch_custom_op(https://github.com/zhaocc1106/torch_custom_op)
+* [https://github.com/yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
+* [https://github.com/zhaocc1106/torch_custom_op](https://github.com/zhaocc1106/torch_custom_op)
 
 ## TensorRT
 * [https://github.com/wang-xinyu/pytorchx](https://github.com/wang-xinyu/pytorchx)
 * [https://github.com/wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)
 * [https://github.com/liujf69/TensorRT-Demo](https://github.com/liujf69/TensorRT-Demo)
-* https://github.com/kalfazed/tensorrt_starter(https://github.com/kalfazed/tensorrt_starter)
-* https://github.com/zhangcheng828/TensorRT-Plugin(https://github.com/zhangcheng828/TensorRT-Plugin)
+* [https://github.com/kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter)
+* [https://github.com/zhangcheng828/TensorRT-Plugin](https://github.com/zhangcheng828/TensorRT-Plugin)
 
 ## AI
 * [https://github.com/liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)
-* https://github.com/RussWong/LLM-engineering(https://github.com/RussWong/LLM-engineering)
-* https://github.com/RussWong/DeepLearning-500-questions(https://github.com/RussWong/DeepLearning-500-questions)
+* [https://github.com/RussWong/LLM-engineering](https://github.com/RussWong/LLM-engineering)
+* [https://github.com/RussWong/DeepLearning-500-questions](https://github.com/RussWong/DeepLearning-500-questions)
