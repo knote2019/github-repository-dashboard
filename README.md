@@ -40,6 +40,7 @@
 * [https://github.com/wc-duck/dbgtools](https://github.com/wc-duck/dbgtools)
 * [https://github.com/agauniyal/rang](https://github.com/agauniyal/rang)
 * [https://github.com/nothings/single_file_libs](https://github.com/nothings/single_file_libs)
+* [https://github.com/tommyip/libsafetensors](https://github.com/tommyip/libsafetensors)
 
 ## PyTorch
 * [https://github.com/AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
