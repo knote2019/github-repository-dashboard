@@ -7,15 +7,8 @@
 * [TensorRT](#TensorRT)
 * [AI](#AI)
 
-## CUDA
-* [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
-* [https://github.com/eyalroz/cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers)
-* [https://github.com/tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn)
-* [https://github.com/RussWong/CUDATutorial](https://github.com/RussWong/CUDATutorial)
-* [https://github.com/zhaocc1106/cuxx-programing](https://github.com/zhaocc1106/cuxx-programing)
-* [https://github.com/HuangCongQing/cuda-learning](https://github.com/HuangCongQing/cuda-learning)
-
 ## CPP
+* [https://github.com/p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
 * [https://github.com/PacktPublishing/Modern-CMake-for-Cpp](https://github.com/PacktPublishing/Modern-CMake-for-Cpp)
 * [https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition](https://github.com/PacktPublishing/Modern-Cpp-Programming-Cookbook-Third-Edition)
 * [https://github.com/PacktPublishing/Expert-C-2nd-edition](https://github.com/PacktPublishing/Expert-C-2nd-edition)
@@ -26,6 +19,7 @@
 * [https://github.com/Phoenix8215/multi-thread-programming](https://github.com/Phoenix8215/multi-thread-programming)
 * [https://github.com/Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
 * [https://github.com/afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
+* [https://github.com/rollbear/strong_type](https://github.com/rollbear/strong_type)
 
 ## CPP-3PP
 * [https://github.com/p-ranav/argparse](https://github.com/p-ranav/argparse)
@@ -41,6 +35,14 @@
 * [https://github.com/agauniyal/rang](https://github.com/agauniyal/rang)
 * [https://github.com/nothings/single_file_libs](https://github.com/nothings/single_file_libs)
 * [https://github.com/tommyip/libsafetensors](https://github.com/tommyip/libsafetensors)
+
+## CUDA
+* [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
+* [https://github.com/eyalroz/cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers)
+* [https://github.com/tlc-pack/libflash_attn](https://github.com/tlc-pack/libflash_attn)
+* [https://github.com/RussWong/CUDATutorial](https://github.com/RussWong/CUDATutorial)
+* [https://github.com/zhaocc1106/cuxx-programing](https://github.com/zhaocc1106/cuxx-programing)
+* [https://github.com/HuangCongQing/cuda-learning](https://github.com/HuangCongQing/cuda-learning)
 
 ## PyTorch
 * [https://github.com/AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
