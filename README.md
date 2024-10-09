@@ -49,6 +49,7 @@
 * [https://github.com/p-ranav/strcpp.old/tree/master](https://github.com/p-ranav/strcpp.old/tree/master)
 * [https://github.com/p-ranav/pprint](https://github.com/p-ranav/pprint)
 * [https://github.com/mikeloomisgg/cppack](https://github.com/mikeloomisgg/cppack)
+* [https://github.com/Neargye/nameof](https://github.com/Neargye/nameof)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
