@@ -50,6 +50,7 @@
 * [https://github.com/p-ranav/pprint](https://github.com/p-ranav/pprint)
 * [https://github.com/mikeloomisgg/cppack](https://github.com/mikeloomisgg/cppack)
 * [https://github.com/Neargye/nameof](https://github.com/Neargye/nameof)
+* [https://github.com/progschj/ThreadPool](https://github.com/progschj/ThreadPool)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
@@ -68,6 +69,7 @@
 * [https://github.com/Hexmagic/libtorch_Yolov5](https://github.com/Hexmagic/libtorch_Yolov5)
 * [https://github.com/yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
 * [https://github.com/zhaocc1106/torch_custom_op](https://github.com/zhaocc1106/torch_custom_op)
+* [https://github.com/lucasdelimanogueira/PyNorch](https://github.com/lucasdelimanogueira/PyNorch)
 
 ## TensorRT
 * [https://github.com/wang-xinyu/pytorchx](https://github.com/wang-xinyu/pytorchx)
