@@ -82,3 +82,5 @@
 * [https://github.com/liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)
 * [https://github.com/RussWong/LLM-engineering](https://github.com/RussWong/LLM-engineering)
 * [https://github.com/RussWong/DeepLearning-500-questions](https://github.com/RussWong/DeepLearning-500-questions)
+* [https://github.com/doocs/awesome-ai](https://github.com/doocs/awesome-ai)
+* [https://github.com/doocs/leetcode](https://github.com/doocs/leetcode)
