@@ -84,3 +84,6 @@
 * [https://github.com/RussWong/DeepLearning-500-questions](https://github.com/RussWong/DeepLearning-500-questions)
 * [https://github.com/doocs/awesome-ai](https://github.com/doocs/awesome-ai)
 * [https://github.com/doocs/leetcode](https://github.com/doocs/leetcode)
+
+## English
+* [https://github.com/ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
