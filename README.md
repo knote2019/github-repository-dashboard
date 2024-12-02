@@ -2,6 +2,7 @@
 
 * [CPP](#CPP)
 * [CUDA](#CUDA)
+* [Python](#Python)
 * [PyTorch](#PyTorch)
 * [TensorRT](#TensorRT)
 * [AI](#AI)
@@ -51,6 +52,7 @@
 * [https://github.com/mikeloomisgg/cppack](https://github.com/mikeloomisgg/cppack)
 * [https://github.com/Neargye/nameof](https://github.com/Neargye/nameof)
 * [https://github.com/progschj/ThreadPool](https://github.com/progschj/ThreadPool)
+* [https://github.com/doocs/leetcode](https://github.com/doocs/leetcode)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
@@ -59,6 +61,9 @@
 * [https://github.com/RussWong/CUDATutorial](https://github.com/RussWong/CUDATutorial)
 * [https://github.com/zhaocc1106/cuxx-programing](https://github.com/zhaocc1106/cuxx-programing)
 * [https://github.com/HuangCongQing/cuda-learning](https://github.com/HuangCongQing/cuda-learning)
+
+## Python
+* [https://github.com/tbenthompson/cppimport](https://github.com/tbenthompson/cppimport)
 
 ## PyTorch
 * [https://github.com/AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
@@ -83,7 +88,7 @@
 * [https://github.com/RussWong/LLM-engineering](https://github.com/RussWong/LLM-engineering)
 * [https://github.com/RussWong/DeepLearning-500-questions](https://github.com/RussWong/DeepLearning-500-questions)
 * [https://github.com/doocs/awesome-ai](https://github.com/doocs/awesome-ai)
-* [https://github.com/doocs/leetcode](https://github.com/doocs/leetcode)
+* [https://github.com/caiwanxianhust/FasterLLaMA](https://github.com/caiwanxianhust/FasterLLaMA)
 
 ## English
 * [https://github.com/ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english)
