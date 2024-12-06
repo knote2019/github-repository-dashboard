@@ -53,6 +53,8 @@
 * [https://github.com/Neargye/nameof](https://github.com/Neargye/nameof)
 * [https://github.com/progschj/ThreadPool](https://github.com/progschj/ThreadPool)
 * [https://github.com/doocs/leetcode](https://github.com/doocs/leetcode)
+* [https://github.com/pinam45/dynamic_bitset](https://github.com/pinam45/dynamic_bitset)
+* [https://github.com/Notiooo/Google-Benchmark-Plotter](https://github.com/Notiooo/Google-Benchmark-Plotter)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
