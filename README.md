@@ -6,6 +6,7 @@
 * [PyTorch](#PyTorch)
 * [TensorRT](#TensorRT)
 * [AI](#AI)
+* [English](#English)
 
 ## CPP
 * [https://github.com/p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
@@ -55,6 +56,8 @@
 * [https://github.com/doocs/leetcode](https://github.com/doocs/leetcode)
 * [https://github.com/pinam45/dynamic_bitset](https://github.com/pinam45/dynamic_bitset)
 * [https://github.com/Notiooo/Google-Benchmark-Plotter](https://github.com/Notiooo/Google-Benchmark-Plotter)
+* [https://github.com/gflags/gflags.git](https://github.com/gflags/gflags.git)
+* [https://github.com/google/glog](https://github.com/google/glog)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
@@ -66,6 +69,7 @@
 
 ## Python
 * [https://github.com/tbenthompson/cppimport](https://github.com/tbenthompson/cppimport)
+* [https://github.com/dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 
 ## PyTorch
 * [https://github.com/AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
