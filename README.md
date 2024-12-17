@@ -58,6 +58,7 @@
 * [https://github.com/Notiooo/Google-Benchmark-Plotter](https://github.com/Notiooo/Google-Benchmark-Plotter)
 * [https://github.com/gflags/gflags.git](https://github.com/gflags/gflags.git)
 * [https://github.com/google/glog](https://github.com/google/glog)
+* [https://github.com/xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
@@ -89,6 +90,7 @@
 * [https://github.com/liujf69/TensorRT-Demo](https://github.com/liujf69/TensorRT-Demo)
 * [https://github.com/kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter)
 * [https://github.com/zhangcheng828/TensorRT-Plugin](https://github.com/zhangcheng828/TensorRT-Plugin)
+* [https://github.com/hamdiboukamcha/SPEED-SAM-C-TENSORRT](https://github.com/hamdiboukamcha/SPEED-SAM-C-TENSORRT)
 
 ## AI
 * [https://github.com/liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)
