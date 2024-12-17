@@ -63,6 +63,7 @@
 * [https://github.com/billyquith/ponder](https://github.com/billyquith/ponder)
 * [https://github.com/chromium/chromium](https://github.com/chromium/chromium)
 * [https://github.com/Mr-enthalpy/Metaclass-Next-Generation-Polymorphism-in-C-](https://github.com/Mr-enthalpy/Metaclass-Next-Generation-Polymorphism-in-C-)
+* [https://github.com/NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
