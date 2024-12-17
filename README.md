@@ -59,6 +59,10 @@
 * [https://github.com/gflags/gflags.git](https://github.com/gflags/gflags.git)
 * [https://github.com/google/glog](https://github.com/google/glog)
 * [https://github.com/xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor)
+* [https://github.com/HowardHinnant/date](https://github.com/HowardHinnant/date)
+* [https://github.com/billyquith/ponder](https://github.com/billyquith/ponder)
+* [https://github.com/chromium/chromium](https://github.com/chromium/chromium)
+* [https://github.com/Mr-enthalpy/Metaclass-Next-Generation-Polymorphism-in-C-](https://github.com/Mr-enthalpy/Metaclass-Next-Generation-Polymorphism-in-C-)
 
 ## CUDA
 * [https://github.com/PacktPublishing/Learn-CUDA-Programming](https://github.com/PacktPublishing/Learn-CUDA-Programming)
