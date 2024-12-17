@@ -70,6 +70,7 @@
 ## Python
 * [https://github.com/tbenthompson/cppimport](https://github.com/tbenthompson/cppimport)
 * [https://github.com/dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+* [https://github.com/Textualize/rich](https://github.com/Textualize/rich)
 
 ## PyTorch
 * [https://github.com/AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)
